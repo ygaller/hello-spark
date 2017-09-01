@@ -1,0 +1,8 @@
+# IntelliJ Idea settings
+
+.idea
+*.iml
+
+# Binaries
+
+target
